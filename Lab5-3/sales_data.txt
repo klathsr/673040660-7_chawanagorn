@@ -1,0 +1,4 @@
+Jan,5000,Electronics
+Feb,3000,Food
+Mar,7000,Clothing
+Apr,4500,Others
