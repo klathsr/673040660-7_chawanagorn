@@ -1,6 +1,6 @@
 """
-Narudee Chakitdee
-673040147-9
+Chawanagorn Thiangsiri
+673040660-7
 Lab5-4
 """
 import sys, os
